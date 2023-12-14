@@ -8,8 +8,9 @@ To use, add the following to config/config.js:
 
 {
     module: "MMM-MarsWeather",
-    position: "top_right", // Change as per your layout
+    position: "top_right", // You can change the position as needed
     config: {
-        // You can change the update interval or other config options if you want
+        // Here you can put any configuration options you have defined in your module
+        // For example, updateInterval: 300000 to update every 5 minutes
     }
 }
