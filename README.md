@@ -1,4 +1,6 @@
-A MagicMirror module to display the current weather on Mars.
+A MagicMirror module to display the current weather on Mars. 
+
+*** If youre using my previous module, remove it and replace it with this one ***
 
 This was created using The NASA Insight api. Get an API key here: https://api.nasa.gov/
 
