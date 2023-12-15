@@ -39,7 +39,7 @@ Module.register("MMM-MarsWeather", {
                                     "Wind Speed: " + weatherData.HWS.av + " m/s<br>" +
                                     "Pressure: " + weatherData.PRE.av + " Pa";
             } else {
-                content.innerHTML = "No weather data available";
+                content.innerHTML = "No weather data available"; // You should put something clever here, but that's lame
             }
 
             wrapper.appendChild(content);
