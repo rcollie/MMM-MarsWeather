@@ -4,7 +4,7 @@ A MagicMirror module to display the current weather on Mars.
 
 This was created using The NASA Insight api. Get an API key here: https://api.nasa.gov/
 
-The data isnt always updated so you might have it display somthing like "unavailable" or something clever rather than "No Weather Data Available"
+The data is rarely updated so you might have it display somthing like "Mars is there, waiting to be reached. - Buzz Aldrin" or something clever rather than "No Weather Data Available". Stil that over an image of Mars maybe?
 
 ______________
 
