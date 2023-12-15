@@ -16,7 +16,7 @@ To add it to your display, add the following to config/config.js:
     config: {
         // Optional configuration options
         updateInterval: 600000, // Update interval in milliseconds (10 minutes)
-        apiKey: "key here" // Your NASA API key
+        apiKey: "your_api_here" // Your NASA API key
     }
 },
   
